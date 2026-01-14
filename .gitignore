@@ -1,0 +1,22 @@
+# Virtual Environment
+expense-backend/venv/
+expense-backend/env/
+expense-backend/.venv/
+
+# Python
+expense-backend/*.pyc
+expense-backend/__pycache__/
+expense-backend/**/__pycache__/
+expense-backend/*.py[cod]
+expense-backend/*$py.class
+expense-backend/*.so
+
+# Django
+expense-backend/*.log
+expense-backend/db.sqlite3
+expense-backend/db.sqlite3-journal
+expense-backend/media/
+expense-backend/staticfiles/
+expense-backend/.env
+expense-backend/local_settings.py
+expense-backend/.vscode/
